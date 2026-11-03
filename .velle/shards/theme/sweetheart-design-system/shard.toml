@@ -1,0 +1,9 @@
+name        = "theme/sweetheart-design-system"
+description = "a sweet design system"
+params      = []
+requires    = []
+
+[[file]]
+src  = "files/sweetheart-design-system.md"
+dest = "sweetheart-design-system.md"
+mode = "create"
