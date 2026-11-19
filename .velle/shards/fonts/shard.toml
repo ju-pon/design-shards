@@ -1,0 +1,129 @@
+name        = "fonts"
+description = ""
+params      = []
+requires    = []
+
+[[file]]
+src  = "files/fonts/Caveat-Bold.ttf"
+dest = "fonts/Caveat-Bold.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/Caveat-Regular.ttf"
+dest = "fonts/Caveat-Regular.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/CormorantGaramond-Bold.ttf"
+dest = "fonts/CormorantGaramond-Bold.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/CormorantGaramond-BoldItalic.ttf"
+dest = "fonts/CormorantGaramond-BoldItalic.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/CormorantGaramond-Italic.ttf"
+dest = "fonts/CormorantGaramond-Italic.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/CormorantGaramond-Medium.ttf"
+dest = "fonts/CormorantGaramond-Medium.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/CormorantGaramond-MediumItalic.ttf"
+dest = "fonts/CormorantGaramond-MediumItalic.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/CormorantGaramond-Regular.ttf"
+dest = "fonts/CormorantGaramond-Regular.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/CormorantGaramond-SemiBold.ttf"
+dest = "fonts/CormorantGaramond-SemiBold.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/CormorantGaramond-SemiBoldItalic.ttf"
+dest = "fonts/CormorantGaramond-SemiBoldItalic.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/EBGaramond-Bold.ttf"
+dest = "fonts/EBGaramond-Bold.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/EBGaramond-BoldItalic.ttf"
+dest = "fonts/EBGaramond-BoldItalic.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/EBGaramond-Italic.ttf"
+dest = "fonts/EBGaramond-Italic.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/EBGaramond-Medium.ttf"
+dest = "fonts/EBGaramond-Medium.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/EBGaramond-MediumItalic.ttf"
+dest = "fonts/EBGaramond-MediumItalic.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/EBGaramond-Regular.ttf"
+dest = "fonts/EBGaramond-Regular.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/EBGaramond-SemiBold.ttf"
+dest = "fonts/EBGaramond-SemiBold.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/EBGaramond-SemiBoldItalic.ttf"
+dest = "fonts/EBGaramond-SemiBoldItalic.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/OFL-Caveat.txt"
+dest = "fonts/OFL-Caveat.txt"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/OFL-CormorantGaramond.txt"
+dest = "fonts/OFL-CormorantGaramond.txt"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/OFL-EBGaramond.txt"
+dest = "fonts/OFL-EBGaramond.txt"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/OFL-Quicksand.txt"
+dest = "fonts/OFL-Quicksand.txt"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/Quicksand-Bold.ttf"
+dest = "fonts/Quicksand-Bold.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/Quicksand-Medium.ttf"
+dest = "fonts/Quicksand-Medium.ttf"
+mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/fonts/Quicksand-Regular.ttf"
+dest = "fonts/Quicksand-Regular.ttf"
+mode = "create"   # create | append | region
