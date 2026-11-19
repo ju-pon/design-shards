@@ -7,3 +7,8 @@ requires    = []
 src  = "files/sweetheart-hw.typ"
 dest = "sweetheart-hw.typ"
 mode = "create"   # create | append | region
+
+[[file]]
+src  = "files/hw.typ"
+dest = "hw.typ"
+mode = "create"   # create | append | region
