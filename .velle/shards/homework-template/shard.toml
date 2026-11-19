@@ -1,0 +1,9 @@
+name        = "homework-template"
+description = ""
+params      = []
+requires    = []
+
+[[file]]
+src  = "files/sweetheart-hw.typ"
+dest = "sweetheart-hw.typ"
+mode = "create"   # create | append | region
